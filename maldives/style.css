@@ -1,0 +1,25 @@
+.header {
+    text-align:center;
+}
+
+a {
+    display:block;
+    width:100%;
+    text-align:center;
+}
+
+.flag {
+    width:900px;
+    height:600px;
+    margin:auto;
+    display:block;
+}
+
+.box {
+    width:50%;
+    height: 200px;
+    
+}
+.green{
+    background:#00843D;
+}
