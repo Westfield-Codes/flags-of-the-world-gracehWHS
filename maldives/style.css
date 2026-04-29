@@ -13,16 +13,14 @@ a {
     height:600px;
     margin:auto;
     display:block;
-}
-
-.box {
-    width:700px;
-    height: 600px;
     border-style: solid;
     border-width: 150px;
     border-color: #C8102E;
     box-sizing: border-box;
+     background:#00843D;
+     text-align: center;
+     
 }
-.green{
-    background:#00843D;
+img{
+    height:300px;
 }
