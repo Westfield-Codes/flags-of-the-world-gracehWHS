@@ -22,10 +22,14 @@ a {
 
 .white{
     background:#fff;
+    text-align:center;
 }
 .red{
-    background:#ff0000;
+    background:#C8102E;
 }
-.blue{
-    background:#0099ff;
+.black{
+    background:#000000;
+}
+img{
+    height:200px;
 }
